@@ -24,3 +24,7 @@ In this project we read from bitmap file and modify them in 4 ways (the methods 
         - stretchvertically
         - stretchvorizontally
     
+## Contributors
+
+1. Mahmoud Saadeh
+1. Sufian Hamdan
